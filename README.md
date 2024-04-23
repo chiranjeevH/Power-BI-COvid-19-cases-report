@@ -14,9 +14,3 @@ The dashboard integrates several data sources to ensure comprehensive coverage a
 - [World Health Organization (WHO)](https://www.who.int/)
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 
-## Getting Started
-To get started with this dashboard, follow the steps below:
-1. **Clone the Repository**
-   ```bash
-   git clone [URL to the repository]
-   cd [repository name]
