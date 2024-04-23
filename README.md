@@ -14,3 +14,4 @@ The dashboard integrates several data sources to ensure comprehensive coverage a
 - [World Health Organization (WHO)](https://www.who.int/)
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 
+![Covid-19 Power BI Report](https://github.com/chiranjeevH/Power-BI-COvid-19-cases-report/assets/65659686/75d3d1c1-9013-47d0-a10e-565fbddb9a82)
