@@ -5,7 +5,7 @@ This project provides an interactive Power BI dashboard for visualizing and anal
 
 ## Features
 - **Interactive Visualizations**: Utilize filters and controls to dive deep into specific data points and regions.
-- **Global and Regional Data**: View data from around the world or zoom into specific regions for detailed analysis.
+- **Indian Data**: View data throughout India or zoom into specific regions for detailed analysis.
 - **Time Series Analysis**: Track the progression of Covid-19 cases over the specified period (January 2022).
 
 ## Data Sources
